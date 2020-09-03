@@ -1,0 +1,100 @@
+{
+    "Auth" : {
+        "email" : "ladyworkup@gmail.com",
+        "password" : "135462798lady"
+    },
+    "Pages" : [
+        {
+            "page" : "jameskewfitness" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "thetrainingmanual" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "fitt_habits" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "bodybuilding.tricks" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "dailytoughfitness" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "pheasyque" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "fitnextzone" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "gymmeister" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "fitness_knowledges" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "gymstime" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "tips.4health" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "fitnessdiaryz" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "gymhealthcenter" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "all_workout_tips" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "all_fitness_ability" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "bodybuildinggymcenter" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "fitnessmindsetz" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        },
+        {
+            "page" : "oli.rogers" ,
+            "link" : "https://kethot.blogspot.com/",
+            "board" : "Fitness"
+        }
+        
+
+    ]
+}
